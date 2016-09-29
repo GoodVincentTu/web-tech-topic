@@ -71,3 +71,5 @@ gitter: https://goo.gl/woxDwx  (可以寫markdown語法，貼code討論程式碼
 ||[Kait Wang]( https://sibevin.github.io/) - uknowiknow|Rails Migration & Model欄位設計原則|[投影片](https://github.com/amazing-tutor/web-tutor-on-thursday/blob/master/slider/rails_migration_and_model_column_design_principle_1.0.1.pdf)|
 9/22|[蔡秉文](https://github.com/CookieTsai, http://tsai-cookie.blogspot.tw/) - 不專業路人餅|Through HTTP Protocol to Learn Web Request<br>這是一場簡單的演講，我們將深入了解 Client & Server 間的作動|
 ||[柯秉承](https://github.com/run26kimo) - commandp 資深工程師|Rails + Elastic Search 好簡單<br>使用 Rails gem 'searchkick'，讓 Rails + Elastic Search 快速上手<br>適合對象: 有用過 Rails, Elastic Search|[投影片](http://slides.com/richke/searchkik)
+9/29|[林罡北](https://www.facebook.com/profile.php?id=100002020489307) - 準備找工作的新鮮肝|Pure CSS drawings<br>讓大家了解在用pure CSS畫出一些簡單的圖片，並加上css animation時如何思考<br>適合對象:有用過基礎的css，而且覺得用純css畫圖很潮很炫|
+||[許之騰](https://www.facebook.com/tonyc.t.hsu) - 大野狼|Ruby CSV簡介<br>主題描述:簡單介紹使用ruby操作csv<br>適合對象:ruby 新手|[投影片](http://slides.com/northbei/wtt9#/)
